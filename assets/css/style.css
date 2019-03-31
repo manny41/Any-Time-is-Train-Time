@@ -1,0 +1,34 @@
+.jumbotron{
+    background: rgba(95, 20, 20, 0.904);
+    color     : #ebebeb;
+}
+.panel-heading{
+    background: rgb(0, 81, 255);
+    color: #ebebeb;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /* margin-bottom: 5px; */
+}
+.panel{
+    border-style: groove;
+}
+#formHeading{
+    background: rgb(0, 81, 255);
+    color: #ebebeb;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+form{
+    border-style: groove;
+    margin-top: 10px;
+}
+h5{
+    margin-left: 5px;
+}
+.form-group{
+    margin-left: 10px;
+}
+button{
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
